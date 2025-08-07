@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vincent Lee Duriga</h1>
 <h3 align="center">I'm an aspiring software dev</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
