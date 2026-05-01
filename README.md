@@ -40,9 +40,9 @@
 
 # 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinceaintreadin-21&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=vinceaintreadin-21&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="165"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=vinceaintreadin-21&theme=radical&hide_border=false" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinceaintreadin-21&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="165"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vinceaintreadin-21&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="165"/>
 </p>
 
 ---
