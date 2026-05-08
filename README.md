@@ -72,6 +72,6 @@ I am an **Aspiring Software Developer** driven by the intersection of robust bac
 
 > [!TIP]
 > **Klik-a-Snap Prototype**  
-> An experimental integration of React Native and Python, exploring the synergy between mobile UI and heavy backend computation.  
-> `Status: Ongoing` • `Domain: Mobile Computing`
+> An experimental integration of React Typescript and Python, exploring the synergy between mobile UI and heavy backend computation.  
+> `Status: Ongoing`
 
