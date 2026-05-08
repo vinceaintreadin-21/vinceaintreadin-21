@@ -49,7 +49,7 @@
 
 ### 🔝 Top Contributed Repo
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=vinceaintreadin-21&repo=YOUR-REPO-NAME&theme=radical" alt="Top Repo" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=vinceaintreadin-21&repo=ecommerce-app&theme=radical" alt="Top Repo" />
 </p>
 
 ---
