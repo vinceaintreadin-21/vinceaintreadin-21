@@ -1,4 +1,4 @@
-# <p align="center">✨ Vincent Lee Duriga</p>
+# <p align="center">Vincent Lee Duriga</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=FF6A00&center=true&vCenter=true&width=600&lines=FULL-STACK+DEVELOPER;SOFTWARE+ENGINEER;AI+%26+CV+EXPLORER" alt="Typing SVG" />
 </p>
