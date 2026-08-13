@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&pause=1000&color=FF6A00&center=true&vCenter=true&width=700&lines=VINCENT+LEE+DURIGA" alt="Name Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&pause=1000&color=FF6A00&center=true&vCenter=true&width=700&lines=B+1+NZZ" alt="Name Header" />
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 ╔══════════════════════════════════════════════════════════╗
 ║              ▶  PLAYER ONE  —  SELECT CHARACTER          ║
 ╠══════════════════════════════════════════════════════════╣
-║  NAME   :  Vincent Lee Duriga                            ║
+║  NAME   :  BINZZ                            ║
 ║  CLASS  :  Aspiring Software Developer                   ║
 ║  BUILD  :  Backend Architect + Frontend Tactician        ║
 ║  SPEC   :  Computer Vision · Machine Learning            ║
